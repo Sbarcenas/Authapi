@@ -1,0 +1,19 @@
+{
+  "name": "authapi",
+  "version": "1.0.0",
+  "description": "AuthApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sbarcenas/Authapi.git"
+  },
+  "author": "Sbarcenas00@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sbarcenas/Authapi/issues"
+  },
+  "homepage": "https://github.com/Sbarcenas/Authapi#readme"
+}
